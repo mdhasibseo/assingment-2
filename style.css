@@ -1,5 +1,7 @@
 
-
+.font-color{
+    color: white;
+}
 .bg-color{
     background-color: black;
 }
@@ -15,15 +17,13 @@
    
    
 }
-.menu:hover{
-   text-align: center;
-}
+
 
 .menu-ber:hover{
     background-color:#E6533C ;
     width: 50px;
     height: 30px;
-    align-items: center;
+ 
     border-radius: 40px;
     transition: 0.5s;
    
@@ -38,4 +38,38 @@
 }
 .navber{
     justify-content: space-between;
+}
+.banner-header{
+    max-width: 520px;
+    font-size: 4.85rem;
+    margin-bottom: 28px;
+}
+.banner{
+    justify-content: space-between;
+    padding-left:100px ;
+    padding-right:100px ;
+    background-color:rgba(17, 17, 17, 1);
+}
+.banner-img{
+    max-width: 349px;
+}
+.banner-pra{
+    max-width: 520px;
+    font-size: 1rem;
+}
+.banner-btn{
+    width: 224px;
+    height: 54px;
+    border-radius: 42px;
+    background-color:rgba(17, 17, 17, 1);
+    color: white;
+    border: 1px solid white;
+   
+}
+.btn{
+    margin-right: 20px;
+}
+.banner-btn:hover{
+    background-color:#E6533C ;
+    transition: 1s;
 }
