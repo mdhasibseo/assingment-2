@@ -101,7 +101,7 @@
     height: 312px;
     width: 366px;
     border-radius: 18px;
-    box-shadow: box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; ;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; ;
 }
 .fitness-container{
     margin-top: 100px;
@@ -175,4 +175,27 @@
     .profile-header{
         font-size: 1rem;
     }
+    .fitness-container{
+        flex-direction: column; 
+    padding: 30px;
+    margin: 20px; 
+        
+    }
+    .run{
+    height:170px;
+    width: 285px;
+    padding: 30px;
+    margin-left: -20px;
+    border-radius: 18px;
+   }
+   .fitness-header{
+    max-width: 287px;
+    font-size: 2rem;
+}
+.fitness-pra{
+    font-size: 0.8rem;
+}
+.fitness-btn{
+   width: 287px;
+}
 }
