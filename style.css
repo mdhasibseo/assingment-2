@@ -126,4 +126,20 @@
     .btn{
       margin-right: 5px;  
     }
+    .profile-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .habits-pra{
+          font-size:0.5rem ;
+    }
+    .habits-header{
+        font-size: 2rem;
+    }
+    .profile-pra{
+        font-size: 0.5rem;
+    }
+    .profile-header{
+        font-size: 1rem;
+    }
 }
