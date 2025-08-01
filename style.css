@@ -75,6 +75,28 @@
     background-color:#E6533C ;
     transition: 1s;
 }
+.habits-header , .habits-pra{
+    text-align: center;
+}
+.habits-header{
+    font-size: 3rem;
+    margin-bottom:14px ;
+}
+.profile-container{
+    justify-content: space-evenly;
+}
+.habits-pra{
+    font-size: 0.8rem;
+}
+.img-div{
+    max-width: 230px;
+    height: 275px;
+    text-align: center;
+    margin-top: 58px;
+}
+.profile{
+    border-radius: 100px;
+}
 @media screen and (max-width:576px) {
     .navber{
         padding-left: 5px;
