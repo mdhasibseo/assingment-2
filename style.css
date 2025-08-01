@@ -183,7 +183,7 @@
     }
     .run{
     height:170px;
-    width: 285px;
+    width: 240px;
     padding: 30px;
     margin-left: -20px;
     border-radius: 18px;
@@ -196,6 +196,6 @@
     font-size: 0.8rem;
 }
 .fitness-btn{
-   width: 287px;
+   width: 250px;
 }
 }
