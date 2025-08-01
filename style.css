@@ -1,0 +1,41 @@
+
+
+.bg-color{
+    background-color: black;
+}
+.brand-name{
+    color:#E6533C;
+}
+.display-flex{
+    display: flex;
+}
+.menu{
+    text-decoration: none;
+    color: white;
+   
+   
+}
+.menu:hover{
+   text-align: center;
+}
+
+.menu-ber:hover{
+    background-color:#E6533C ;
+    width: 50px;
+    height: 30px;
+    align-items: center;
+    border-radius: 40px;
+    transition: 0.5s;
+   
+}
+.menu-ber{
+    list-style: none;
+  
+}
+.menu-head{
+    gap: 20px;
+     align-items: center;
+}
+.navber{
+    justify-content: space-between;
+}
