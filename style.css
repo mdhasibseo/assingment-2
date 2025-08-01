@@ -130,6 +130,17 @@
 .fitness-pra{
     max-width: 443px;
 }
+.bmi-header, .bmi-pra{
+    text-align: center;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.Calculator{
+    justify-content: space-between;
+}
 @media screen and (max-width:576px) {
     .navber{
         padding-left: 5px;
