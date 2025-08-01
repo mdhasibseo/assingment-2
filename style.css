@@ -97,6 +97,39 @@
 .profile{
     border-radius: 100px;
 }
+.run{
+    height: 312px;
+    width: 366px;
+    border-radius: 18px;
+    box-shadow: box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; ;
+}
+.fitness-container{
+    margin-top: 100px;
+    justify-content: space-between;
+    background-color:rgba(34, 34, 34, 1) ;
+    padding: 40px;
+    margin: 190px;
+    border-radius: 10px;
+}
+.fitness-header{
+    max-width: 350px;
+    font-size: 3rem;
+}
+.fitness-btn{
+    width: 224px;
+    height: 54px;
+    border-radius: 42px;
+    border: 1px solid white;
+    background-color:rgba(34, 34, 34, 1) ;
+    color: white;
+}
+.fitness-btn:hover{
+    background-color: #E6533C;
+    transition: 0.9s;
+}
+.fitness-pra{
+    max-width: 443px;
+}
 @media screen and (max-width:576px) {
     .navber{
         padding-left: 5px;
