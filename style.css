@@ -132,6 +132,15 @@
 }
 .bmi-header, .bmi-pra{
     text-align: center;
+   
+}
+.bmi-pra{
+     padding-bottom: 90px;
+     font-size: 0.8rem;
+}
+.bmi-header{
+   font-size: 3rem;
+   margin-bottom: -5px;
 }
 td, th {
   border: 1px solid #dddddd;
@@ -140,6 +149,11 @@ td, th {
 }
 .Calculator{
     justify-content: space-between;
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(34, 34, 34, 1);
 }
 .calculatore-header{
     font-size: 1.75rem;
@@ -166,6 +180,7 @@ td, th {
 .c-btn{
     margin-left: 10px;
     margin-top: 20px;
+    background-color:rgba(34, 34, 34, 1) ;
 }
 @media screen and (max-width:576px) {
     .navber{
