@@ -250,4 +250,41 @@ td, th {
 .fitness-btn{
    width: 250px;
 }
+.Calculator{
+    flex-direction: column;
+}
+.bmi-header{
+   font-size: 2rem;
+  
+}
+.bmi-pra{
+     padding-bottom: 30px;
+     font-size: 0.5rem;
+}
+.Calculator{
+   
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  
+}
+.calculatore-header{
+    font-size: 1rem;
+}
+.Calculator-pra{
+    font-size: 0.8rem;
+}
+.form{
+    width: 270px;
+    height: 48px;
+    border-radius: 8px;
+    justify-items: center;
+  margin-bottom: 10px;
+  
+}
+.form-1{
+    width: 275px;
+    margin-bottom: -5px;
+}
 }
