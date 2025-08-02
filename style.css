@@ -141,6 +141,32 @@ td, th {
 .Calculator{
     justify-content: space-between;
 }
+.calculatore-header{
+    font-size: 1.75rem;
+}
+.Calculator-pra{
+    font-size: 0.8rem;
+}
+.form{
+    width: 280px;
+    height: 48px;
+    border-radius: 8px;
+    background-color:rgba(255, 255, 255, 0.1) ;
+  margin-bottom: 12px;
+  margin-left: 12px;
+}
+.form-1{
+    width: 577px;
+    height: 48px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    margin-left:10px;
+    background-color:rgba(255, 255, 255, 0.1) ;
+}
+.c-btn{
+    margin-left: 10px;
+    margin-top: 20px;
+}
 @media screen and (max-width:576px) {
     .navber{
         padding-left: 5px;
