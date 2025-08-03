@@ -101,7 +101,7 @@
     height: 312px;
     width: 366px;
     border-radius: 18px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; ;
+    
 }
 .fitness-container{
     margin-top: 100px;
@@ -281,9 +281,9 @@ td, th {
     }
     .run{
     height:170px;
-    width: 240px;
+    width: 200px;
     padding: 30px;
-    margin-left: -20px;
+    margin-left: -30px;
     border-radius: 18px;
    }
    .fitness-header{
@@ -294,7 +294,7 @@ td, th {
     font-size: 0.8rem;
 }
 .fitness-btn{
-   width: 250px;
+   width: 200px;
 }
 .Calculator{
     flex-direction: column;
@@ -340,4 +340,37 @@ td, th {
   margin-left: -20px;
    
 }
+.footer-container{
+    flex-direction: column;
+}
+.footer-container{
+    justify-content: start;
+    gap: 0px;
+}
+.footer-header{
+    padding-top:0px ;
+  font-size: 1.9rem;  
+  
+}
+.footer-pra{
+    font-size: 0.5rem;
+    
+}
+.footer-sub-header{
+    font-size: 1rem;
+}
+.footer-ul{
+   
+    font-size: 0.5rem;
+ 
+}
+.footer{
+    margin-top:86px ;
+    
+}
+.last{
+    padding-left: 30px;
+     padding-top:50px ;
+}
+
 }
