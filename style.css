@@ -229,6 +229,16 @@ td, th {
      padding-top:66px ;
 }
 @media screen and (max-width:576px) {
+   
+   .brand-name{
+    font-size:1rem ;
+   }
+   .menu{
+    font-size:  0.5rem;
+   }
+   .menu-head{
+    padding-right: 50px;
+   }
     .navber{
         padding-left: 5px;
         padding-right: 5px;
@@ -322,16 +332,17 @@ td, th {
     font-size: 0.8rem;
 }
 .form{
-    width: 270px;
+    width: 250px;
     height: 48px;
     border-radius: 8px;
     justify-items: center;
   margin-bottom: 10px;
-  
+   margin-left: -10px;
 }
 .form-1{
-    width: 275px;
+    width: 265px;
     margin-bottom: -5px;
+    margin-left: -10px;
 }
 .grid{
     display: grid;
